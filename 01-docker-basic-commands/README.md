@@ -114,11 +114,8 @@ docker system prune
 
 ### Nginx Container Running
 
-![Nginx Container](./screenshots/nginx-running.png)
+![Nginx Test](./nginx-test-on-browser.png)
 
-### Nginx HTTP Response
-
-![Nginx curl Test](./screenshots/nginx-curl.png)
 
 ## 📚 Key Takeaway
 
